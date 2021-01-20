@@ -1,4 +1,4 @@
-# agecalculator
+# Age Calculator
 \
 This is just a basic vanilla javascript which calculates your age in years, months and days :)
 \
